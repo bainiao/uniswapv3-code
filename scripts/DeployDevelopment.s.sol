@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.14;
 
-import "forge-std/console.sol";
-import "forge-std/Script.sol";
+import "lib/forge-std/console.sol";
+import "lib/forge-std/Script.sol";
 
 import "../src/interfaces/IUniswapV3Manager.sol";
 import "../src/lib/FixedPoint96.sol";
